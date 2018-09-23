@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mivi</string>
+    <string name="welcome">Welcome to</string>
+    <string name="mivi">MIVI...</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="dataBalance">Data Balance</string>
+    <string name="balance_mb">52700 KB</string>
+    <string name="expiryDate">Expiry Date</string>
+    <string name="date_expiry">28/10/2018</string>
+    <string name="renewal">Auto Renewal</string>
+    <string name="renewal_boolean">yes</string>
+    <string name="subscription_type">Primary Subscription</string>
+    <string name="unlimitedPlan">UNLIMITED 7GB PLAN</string>
+    <string name="unlimited_price">Price</string>
+    <string name="unlimit_money">3665.00</string>
+    <string name="credit">Credit</string>
+    <string name="credit_money">1200.00</string>
+</resources>
